@@ -1,0 +1,15 @@
+h1{background-color:blue;} 
+h1{color: white;}   
+div{background-color:lightgray}
+div{color: black}
+.highlight {background-color:green}
+.main-content{background-color: yellow;}
+.text{text-align: center}
+.heading{text-decoration:underline; text-decoration-style: dashed; }
+.bold-text{font-weight:bold ;}
+#intro{font-weight:300 ;}
+body{ font-family: Arial, sans-serif; }
+.custom-font{font-family: "Times new roman";}
+.heading12{text-transform: uppercase;}
+a{text-decoration:none}
+.capitalize-text{text-transform: capitalize;}
